@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    
+}
+
+section{
+    padding: 40px 0;
+}
+
+.top{
+    background-color: #f0f2f4;
+    border-bottom: 1px solid ##e2e2e2;
+    padding: 0 !important;
+}
+.top-menu{
+
+}
+.top-menu ul{
+    display: inline-block;
+    margin-bottom: 0;
+}
+.top-menu ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+}
+
+.top-menu-left{
+    margin-right: 20px;
+    border-right: 1px solid #e2e2e2;
+}
+.top-menu-left i{
+
+}
+.top-menu-left span{
+    padding-right: 20px;
+}
+
+.top-menu-right{
+
+}
+
+.top-menu-right .fa.fa-envelope{
+
+}
+.top-menu-right .fa.fa-facebook-official{
+    color: #3b5999;
+    font-size: 30px;
+    vertical-align: middle;
+}
+.top-menu-right span{
+    margin-right: 10px;
+}
+
+
+
+
+
+.navbar{
+    padding: 35px 0;
+}
+.nav-item.last-itm{
+    margin-right: 30px;
+}
+.nav-item.special{
+    background-color: #de2b24;
+    border-radius: 10px;
+    
+}
+.nav-item.special a{
+    padding: 10px 20px !important;
+    color: white;
+    font-size: 15px;
+}
+a.nav-link{
+    padding: 10px 0 !important;
+    font-size: 15px;
+}
+.nav-link{
+    color: #424242;
+}
+.circle::after{
+    font-family: FontAwesome;
+    display: inline-block;
+}
+
+.circle::after{
+    content: "\f111";
+    margin: 0 15px;
+    font-size: 10px;
+    vertical-align: middle;
+}
+
+
+
+.hero{
+    background: url(../img/hero.png);
+    background-position: center top;
+    background-size: cover;
+}
+
+.hero-content h1{
+    padding-top: 130px;
+    font-size: 48px;
+    color: white;
+    font-weight: 700;
+}
+.hero-content p{
+    font-size: 30px;
+    color: white;
+    font-weight: 300;
+}
+.btn-hero{
+    margin-top: 25px;
+    width: 330px;
+    height: 65px;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 195px;
+    border-radius: 10px;
+}
+
+
+
+.about{
+
+}
+.about-main{
+    color: #424242;
+}
+.about-main h2{
+    padding-top: 60px;
+    font-weight: 700;
+    font-size: 36px;
+    
+}
+.about-main p{
+    font-size: 20px;
+    font-size: 300;
+}
+.about-main hr{
+    width: 50px;
+    margin: 15px auto;
+    border-bottom: 7px solid black;
+}
+.about-service{
+    margin-top: 30px;
+    margin-bottom: 76px;
+
+}
+.about-service img{
+    
+}
+.about-service h3{
+    margin: 15px 0;
+    font-weight: 700;
+    font-size: 22px;
+    color: #424242;
+}
+.about-service p{
+    font-size: 14px;
+    color: #424242;
+}
+
+
+
+
+.project{
+    background: #de2b24;
+}
+.project-main{
+    color: white !important;
+}
+.work{
+    margin-top: 40px;
+    margin-bottom: 85px;
+}
+.works-text{
+    color: white;
+    background-color: #f35e59;
+    padding: 0;
+}
+
+.works-text h4{
+    margin-top: 10px;
+    font-size: 26px;
+    margin-bottom: 0 !important;
+}
+
+.works-text p{
+    font-size: 16px;
+}
+
+.works-text i{
+    font-size: 36px;
+}
+.works-img{
+    padding: 0;
+}
+.works-img img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
